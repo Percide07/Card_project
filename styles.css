@@ -76,3 +76,11 @@ i {
     font-size: 500px;
     background-color: black;
 }
+.sideBar {
+    background-color: #3d3534;
+    width: 45vh;
+    height: 98vh;
+    position: absolute;
+    left: 170vh;
+    top: 1vh;
+    }
